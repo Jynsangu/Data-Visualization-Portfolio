@@ -38,11 +38,12 @@ Data Visualization using Power BI
 * Male circumcision is not a cultural practice in Siaya which has a high prevalance of HIV. Male circumcision is a way to aid in the prevention of the spread of HIV.
 * The dashboard seeks to visually show the two types of cicumcision procedures (Ring device and surgery) being offered, the uptake of the services, patient preferences and the uptake per age group. The dashboard aids decision making on the service(s) to focus on, distribution of resources (Ring devices, surgeons,etc), fund allocation and the age group that needs further education and community outreach opportunities to encourage circumcision.
 * Yearly targets are set and the dashboard gives a picture of where the team actually is against the target of the Program year.
-* Black was a colour choice based on my desire for a unique appearance and since it is a male indicator. The vibrant colours are for data and visuals to be clear against the dark background with tables to enable data to be visualized as a cascade and the trend chart to show progress through each month (Drastic drops can lead to intervention or inquiry on reasons for a drop in numbers / percentage).
+* Black was a colour choice based on my desire for a unique appearance and since it is a male indicator. The vibrant colours are for data and visuals to be clear against the dark background with tables to enable data to be visualized as a cascade and the trend chart to show progress through each month (Drastic drops can lead to intervention or inquiry on reasons for a drop in numbers / percentages).
 
 ---
 
 ## Cervical Cancer Dashboard
+
 * Cervical Cancer Dashboard represents data from the start of our Program year (Oct 2021 to Sep 2022) and Program year 2 (Oct 2022 to date).
 * Cervical Cancer is a disease that is highly prevalent among the HIV Positive patients as compared to the HIV Negative patients. 
 * With an assigned yearly cervical cancer screening target, the dashboard gives a picture of where the team is in terms of numbers and/or percentages.
