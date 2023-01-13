@@ -28,7 +28,7 @@ Data Visualization using Power BI
 
 
 
-[Back To The Top](#read-me-template)
+
 
 ---
 
@@ -51,5 +51,5 @@ Data Visualization using Power BI
 * The choice of purple colour was basically due to the indicator being all female, to add brightness and clarity to the visual. The gauge is a simple and effective way to show the actual numbers against the target assigned.
 
 
-[Back To The Top](#read-me-template)
+
 
