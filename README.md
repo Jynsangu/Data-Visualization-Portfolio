@@ -1,5 +1,5 @@
 # PortFolio
-Data Visualization using Power BI
+Data Visualization (Power BI)
 ## Introduction
 
 > My portfolio contains 3 current projects that showcase my skills in data visualization using Power BI. For Data confidentiality, changes have been made to the Sub County, Region, Facility and the data itself. 
