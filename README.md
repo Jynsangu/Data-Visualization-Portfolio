@@ -2,7 +2,7 @@
 Data Visualization (Power BI)
 ## Introduction
 
-> My portfolio contains 3 current projects that showcase my skills in data visualization using Power BI. For Data confidentiality, changes have been made to the Sub County, Region, Facility and the data itself. 
+> My portfolio contains 3 projects that showcase my skills in data visualization using Power BI. For Data confidentiality, changes have been made to the Sub County, Region, Facility and the data itself. 
 > Basically, the users of all the dashboards are the Senior Technical Teams, Program officers, Strategic Information officers and Program Director.
 > Data received via aggregate database systems are pulled , cleaned and analyzed using MS Excel and R Studio.
 > The tool used to create these dashboards is Power BI with the use of Data Analysis Expressions (DAX) such as DIVIDE(),CALCULATE(),SUMX(),FILTER(),FORMAT() among others to carry out calculations and enhance the data model.
